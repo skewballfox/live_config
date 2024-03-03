@@ -129,7 +129,7 @@ bindsym $mod+Shift+0 move container to workspace $ws10
 bindsym $mod+d exec $launcher
 
 # Pull up the guide
-bindsym $mod+/ exec kitty --hold view-yubikey-guide
+bindsym $mod+slash exec kitty --hold view-yubikey-guide
 
 # start a terminal
 bindsym $mod+Return exec $terminal
