@@ -8,7 +8,7 @@ set $mod Mod4
 floating_modifier $mod
 
 set $sway_bin ~/.config/sway/bin
-set $terminal sway-cwd-term.sh
+set $terminal sway-cwd-term
 set $launcher kickoff
 
 set $lock sway_screenlock
